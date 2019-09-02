@@ -1,2 +1,2 @@
 # tiptap-demo
-Vue tip Tap Demo
+Vue tiptap table Demo
