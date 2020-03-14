@@ -1,0 +1,32 @@
+{
+  "name": "setup-prosemirror",
+  "dependencies": {
+    "prosemirror-collab": "^1.1.2",
+    "prosemirror-commands": "^1.0.8",
+    "prosemirror-dropcursor": "^1.1.1",
+    "prosemirror-example-setup": "^1.0.1",
+    "prosemirror-gapcursor": "^1.0.4",
+    "prosemirror-history": "^1.0.4",
+    "prosemirror-inputrules": "^1.0.4",
+    "prosemirror-keymap": "^1.0.1",
+    "prosemirror-model": "^1.7.1",
+    "prosemirror-schema-basic": "^1.0.0",
+    "prosemirror-schema-list": "^1.0.3",
+    "prosemirror-state": "^1.2.4",
+    "prosemirror-tables": "^0.9.1",
+    "prosemirror-transform": "^1.1.3",
+    "prosemirror-utils": "^0.9.6",
+    "prosemirror-view": "^1.10.0",
+    "rollup-plugin-babel-minify": "^9.0.0",
+    "rollup-plugin-uglify": "^6.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "babel-loader": "^8.0.5",
+    "rollup": "^1.1.0",
+    "rollup-plugin-babel": "^4.3.1",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-node-resolve": "^4.0.0"
+  }
+}
