@@ -1,4 +1,6 @@
-  const {
+const {prosemirrorState, prosemirrorView, prosemirrorModel, prosemirrorDropcursor, prosemirrorGapcursor, prosemirrorKeymap, prosemirrorCommands, prosemirrorInputrules,
+    prosemirrorUtils, prosemirrorTables, prosemirrorTransform, prosemirrorCollab, prosemirrorHistory,prosemirrorSchemaList}=prosemirror;
+const {
 		Blockquote,
 		CodeBlock,
 		HardBreak,
