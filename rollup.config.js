@@ -10,7 +10,7 @@ export default {
   input: './src/index.js',
   output: {
     format: 'iife',
-    file: 'public/prosemirror.js',
+    file: 'js/prosemirror.js',
     name: 'prosemirror'
   },
   plugins: [
